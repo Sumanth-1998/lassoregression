@@ -125,8 +125,5 @@ print ("ridge regression train score high alpha:", Lasso_train_score100)
 print ("ridge regression test score high alpha:", Lasso_test_score100)
 
 
-# In[48]:
 
-
-git remote add origin https://github.com/Sumanth-1998/lassoregression.git
 
